@@ -25,3 +25,7 @@ python skeletonize_modular.py --ids 720575940407157162 720575940405104379 720575
 
 These are segment IDs of your choice: `720575940407157162`
 
+### Importing Skeletons into CATMAID
+Follow the `import_skels_into_catmaid.py` script to upload skeletons to your own CATMAID instance.
+Make sure you use your own project for this and you have sufficient permissions to use the CATMAID API.
+
